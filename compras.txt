@@ -1,0 +1,5 @@
+1234565A 2 124.6 Reproductor
+5289634X 1 120.9 Disco Portatil
+9876543K 2 45.7 Memoria USB
+4985641B 3 98.7 Modem
+4569874J 5 55.5 Cargador Inalambrico
